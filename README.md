@@ -32,7 +32,7 @@ Este proyecto implementa algoritmos de aprendizaje por refuerzo profundo (Deep R
    pip install -r requirements.txt
 
 ## Configuración de las simulaciones ⚙️
-![Parámetros](./images/parametros.png)
+![Parámetros](./DRL-IT-Management/images/parametros.png)
 
 ## Autores ✒️
 
