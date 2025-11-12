@@ -5,8 +5,11 @@ Este proyecto implementa algoritmos de aprendizaje por refuerzo profundo (Deep R
 ## Características 
 - Entorno que simula la red táctil
 - Algoritmos implementados:
+  
     Q-Learning (algoritmo base de RL)
+  
     Deep Q-Network (DQN) - acción discreta
+  
     Advantage Actor Critic (A2C) - acción continua
 - Tres escenarios de prueba con diferentes parámetros de red
 - Métricas de evaluación para comparar el rendimiento
@@ -23,8 +26,9 @@ Este proyecto implementa algoritmos de aprendizaje por refuerzo profundo (Deep R
 ## Instalación 🔧
 1. Clona el repositorio:
    git clone https://github.com/DuniaMarquina/DRL-IT-Management.git
+   
    cd DRL-IT-Management
-2. Instala las dependencias:
+3. Instala las dependencias:
    pip install -r requirements.txt
 
 ## Configuración de las simulaciones ⚙️
